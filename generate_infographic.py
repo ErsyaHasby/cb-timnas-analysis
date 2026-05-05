@@ -65,7 +65,7 @@ ax.text(
 
 ax.text(
     FIG_W - 0.25, HEADER_Y + HEADER_HEIGHT / 2,
-    "BRI Liga 1  25/26",
+    "ersaa.hs",
     color=COLOR_TEXT_MUTED,
     fontsize=9,
     va='center',
@@ -371,7 +371,7 @@ ax.text(
 
 ax.text(
     FIG_W - 0.25, 0.35,
-    "Football Analytics ID",
+    "ersaa.hs",
     color=COLOR_TEXT_MUTED,
     fontsize=7,
     va='center', ha='right',
