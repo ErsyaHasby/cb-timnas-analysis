@@ -44,7 +44,7 @@ HEADER_Y      = 12.8
 HEADER_HEIGHT = 1.0
 
 header_box = FancyBboxPatch(
-    (0.2, HEADER_Y), 4.2, HEADER_HEIGHT,
+    (0.2, HEADER_Y), 6.5, HEADER_HEIGHT,
     boxstyle="round,pad=0.05",
     facecolor=COLOR_HEADER_RED,
     edgecolor='none',
